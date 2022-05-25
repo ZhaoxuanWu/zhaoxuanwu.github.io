@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student in **Data Science** at the National University of Singapore (NUS), supervised by [Prof. Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/~lowkh/research.html){:target="_blank"}. I received my Bachelor of Science (Honors) in Data Science & Analytics and a minor in Computer Science from NUS in 2020. I am currently supported by the ISEP-IDS Scholarship jointly offered by the [NUS Graduate School Integrative Sciences and Engineering Programme](https://isep.nus.edu.sg/){:target="_blank"} (ISEP) and the
+I am a Ph.D. student in **Data Science** at the National University of Singapore (NUS), supervised by [Assoc. Prof. Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/~lowkh/research.html){:target="_blank"}. I received my Bachelor of Science (Honors) in Data Science & Analytics and a minor in Computer Science from NUS in 2020. I am currently supported by the ISEP-IDS Scholarship jointly offered by the [NUS Graduate School Integrative Sciences and Engineering Programme](https://isep.nus.edu.sg/){:target="_blank"} (ISEP) and the
 [Institute of Data Science](https://ids.nus.edu.sg/){:target="_blank"} (IDS).
 
 <br/>
