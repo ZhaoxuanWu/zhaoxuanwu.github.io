@@ -33,17 +33,17 @@ Publications
 <ins>Zhaoxuan Wu</ins>, Yao Shu, and Bryan Kian Hsiang Low. \
 In _Proceedings of the 39th International Conference on Machine Learning (ICML-22)_.
 
-* [Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.](#) \
+* [Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.](https://arxiv.org/abs/2201.09785){:target="_blank"} \
 Yao Shu, Zhongxiang Dai, <ins>Zhaoxuan Wu</ins>, and Bryan Kian Hsiang Low. \
 In _arXiv preprint_.
 
 ### 2021
 
-* [Validation Free and Replication Robust Volume-based Data Valuation.](#) \
+* [Validation Free and Replication Robust Volume-based Data Valuation.](https://proceedings.neurips.cc/paper/2021/hash/59a3adea76fadcb6dd9e54c96fc155d1-Abstract.html){:target="_blank"} \
 Xinyi Xu\*, <ins>Zhaoxuan Wu\*</ins>, Chuan Sheng Foo, and Bryan Kian Hsiang Low (2021). \
 In _Advances in Neural Information Processing Systems 34: 35th Annual Conference on Neural Information Processing Systems (NeurIPS’21)_.
 
-* [Trusted-Maximizers Entropy Search for Efficient Bayesian Optimization.](#) \
+* [Trusted-Maximizers Entropy Search for Efficient Bayesian Optimization.](https://proceedings.mlr.press/v161/nguyen21d/nguyen21d.pdf){:target="_blank"}  \
 Quoc Phong Nguyen\*, <ins>Zhaoxuan Wu\*</ins>, Bryan Kian Hsiang Low, and Patrick Jaillet (2021). \
 In _Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence (UAI-21)_.
 
