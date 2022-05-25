@@ -1,0 +1,56 @@
+---
+permalink: /
+title: 
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
+I am a Ph.D. student in **Data Science** at the National University of Singapore (NUS), supervised by [Prof. Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/~lowkh/research.html){:target="_blank"}. I received my Bachelor of Science (Honors) in Data Science & Analytics and a minor in Computer Science from NUS in 2020. I am currently supported by the ISEP-IDS Scholarship jointly offered by the [NUS Graduate School Integrative Sciences and Engineering Programme](https://isep.nus.edu.sg/){:target="_blank"} (ISEP) and the
+[Institute of Data Science](https://ids.nus.edu.sg/){:target="_blank"} (IDS).
+
+<br/>
+
+Research Interests
+======
+My interests include, but not limited to, the following areas:
+* Collaborative machine learning (e.g., data valuation, federated learning)
+*	Resource-efficient machine learning (e.g., Bayesian optimization)
+*	Deep learning & applications
+
+<br/>
+
+Publications
+======
+**\* = equal contribution**
+
+### 2022
+
+* [DAVINZ: Data Valuation using Deep Neural Networks at Initialization.](#) \
+<ins>Zhaoxuan Wu</ins>, Yao Shu, and Bryan Kian Hsiang Low. \
+In _Proceedings of the 39th International Conference on Machine Learning (ICML-22)_.
+
+* [Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.](#) \
+Yao Shu, Zhongxiang Dai, <ins>Zhaoxuan Wu</ins>, and Bryan Kian Hsiang Low. \
+In _arXiv preprint_.
+
+### 2021
+
+* [Validation Free and Replication Robust Volume-based Data Valuation.](#) \
+Xinyi Xu\*, <ins>Zhaoxuan Wu\*</ins>, Chuan Sheng Foo, and Bryan Kian Hsiang Low (2021). \
+In _Advances in Neural Information Processing Systems 34: 35th Annual Conference on Neural Information Processing Systems (NeurIPS’21)_.
+
+* [Trusted-Maximizers Entropy Search for Efficient Bayesian Optimization.](#) \
+Quoc Phong Nguyen\*, <ins>Zhaoxuan Wu\*</ins>, Bryan Kian Hsiang Low, and Patrick Jaillet (2021). \
+In _Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence (UAI-21)_.
+
+<br/>
+
+Academic Activities
+======
+
+* Conference Reviewer
+  * ICML 2022
