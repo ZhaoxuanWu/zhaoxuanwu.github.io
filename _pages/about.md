@@ -29,7 +29,7 @@ Publications
 
 ### 2022
 
-* [DAVINZ: Data Valuation using Deep Neural Networks at Initialization.](#) \
+* [DAVINZ: Data Valuation using Deep Neural Networks at Initialization.](https://www.comp.nus.edu.sg/~lowkh/pubs/icml2022w.pdf) \
 <ins>Zhaoxuan Wu</ins>, Yao Shu, and Bryan Kian Hsiang Low. \
 In _Proceedings of the 39th International Conference on Machine Learning (ICML-22)_.
 
