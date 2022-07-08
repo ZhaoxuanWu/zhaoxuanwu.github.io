@@ -54,3 +54,4 @@ Academic Activities
 
 * Conference Reviewer
   * ICML 2022
+  * NeurIPS 2022
