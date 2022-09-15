@@ -35,7 +35,7 @@ In _Proceedings of the 39th International Conference on Machine Learning (ICML-2
 
 * [Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.](https://arxiv.org/abs/2201.09785){:target="_blank"} \
 Yao Shu, Zhongxiang Dai, <ins>Zhaoxuan Wu</ins>, and Bryan Kian Hsiang Low. \
-In _arXiv preprint_.
+In _Advances in Neural Information Processing Systems 35: 36th Annual Conference on Neural Information Processing Systems (NeurIPS’22)_.
 
 ### 2021
 
@@ -53,5 +53,6 @@ Academic Activities
 ======
 
 * Conference Reviewer
+  * ACML 2022
   * NeurIPS 2022
   * ICML 2022
