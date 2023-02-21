@@ -27,6 +27,12 @@ Publications
 ======
 **\* = equal contribution**
 
+### 2023
+
+* [FAIR: Fair Collaborative Active Learning with Individual Rationality for Scientific Discovery.]() \
+Xinyi Xu, <ins>Zhaoxuan Wu</ins>, Arun Verma, Chuan Sheng Foo, and Bryan Kian Hsiang Low. \
+In _Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS-23)_.
+
 ### 2022
 
 * [DAVINZ: Data Valuation using Deep Neural Networks at Initialization.](https://www.comp.nus.edu.sg/~lowkh/pubs/icml2022w.pdf) \
