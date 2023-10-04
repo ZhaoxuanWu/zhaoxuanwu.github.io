@@ -29,29 +29,35 @@ Publications
 
 ### 2023
 
-* [FAIR: Fair Collaborative Active Learning with Individual Rationality for Scientific Discovery.](https://proceedings.mlr.press/v206/xu23e.html){:target="_blank"} [\[code\]](https://github.com/XinyiYS/FAIR){:target="_blank"} \
+* [FAIR: Fair Collaborative Active Learning with Individual Rationality for Scientific Discovery.](https://proceedings.mlr.press/v206/xu23e.html){:target="_blank"} \
 Xinyi Xu, <ins>Zhaoxuan Wu</ins>, Arun Verma, Chuan Sheng Foo, and Bryan Kian Hsiang Low. \
-In _Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS-23)_.
+In _Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS-23)_. \
+\[[code](https://github.com/XinyiYS/FAIR){:target="_blank"}\]
 
 ### 2022
 
 * [DAVINZ: Data Valuation using Deep Neural Networks at Initialization.](https://proceedings.mlr.press/v162/wu22j.html){:target="_blank"} \
 <ins>Zhaoxuan Wu</ins>, Yao Shu, and Bryan Kian Hsiang Low. \
-In _Proceedings of the 39th International Conference on Machine Learning (ICML-22)_.
+In _Proceedings of the 39th International Conference on Machine Learning (ICML-22)_. \
+\[[code](https://github.com/ZhaoxuanWu/DAVINZ-DataValuation){:target="_blank"}\]
+
 
 * [Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.](https://arxiv.org/abs/2201.09785){:target="_blank"} \
 Yao Shu, Zhongxiang Dai, <ins>Zhaoxuan Wu</ins>, and Bryan Kian Hsiang Low. \
-In _Advances in Neural Information Processing Systems 35: 36th Annual Conference on Neural Information Processing Systems (NeurIPS’22)_.
+In _Advances in Neural Information Processing Systems 35: 36th Annual Conference on Neural Information Processing Systems (NeurIPS’22)_. \
+\[[code](https://github.com/shuyao95/HNAS){:target="_blank"}\]
 
 ### 2021
 
 * [Validation Free and Replication Robust Volume-based Data Valuation.](https://proceedings.neurips.cc/paper/2021/hash/59a3adea76fadcb6dd9e54c96fc155d1-Abstract.html){:target="_blank"} \
 Xinyi Xu\*, <ins>Zhaoxuan Wu\*</ins>, Chuan Sheng Foo, and Bryan Kian Hsiang Low. \
-In _Advances in Neural Information Processing Systems 34: 35th Annual Conference on Neural Information Processing Systems (NeurIPS’21)_.
+In _Advances in Neural Information Processing Systems 34: 35th Annual Conference on Neural Information Processing Systems (NeurIPS’21)_. \
+\[[code](https://github.com/ZhaoxuanWu/VolumeBased-DataValuation){:target="_blank"}\]
 
 * [Trusted-Maximizers Entropy Search for Efficient Bayesian Optimization.](https://proceedings.mlr.press/v161/nguyen21d/nguyen21d.pdf){:target="_blank"}  \
 Quoc Phong Nguyen\*, <ins>Zhaoxuan Wu\*</ins>, Bryan Kian Hsiang Low, and Patrick Jaillet. \
-In _Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence (UAI-21)_.
+In _Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence (UAI-21)_. \
+\[[code](https://github.com/ZhaoxuanWu/Trusted-Maximizers-Entropy-Search-BO){:target="_blank"}\]
 
 <br/>
 
