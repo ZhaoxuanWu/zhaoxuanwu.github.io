@@ -29,13 +29,13 @@ Publications
 
 ### 2023
 
-* [FAIR: Fair Collaborative Active Learning with Individual Rationality for Scientific Discovery.]() \
+* [FAIR: Fair Collaborative Active Learning with Individual Rationality for Scientific Discovery.](https://proceedings.mlr.press/v206/xu23e.html){:target="_blank"} [\[code\]](https://github.com/XinyiYS/FAIR){:target="_blank"} \
 Xinyi Xu, <ins>Zhaoxuan Wu</ins>, Arun Verma, Chuan Sheng Foo, and Bryan Kian Hsiang Low. \
 In _Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS-23)_.
 
 ### 2022
 
-* [DAVINZ: Data Valuation using Deep Neural Networks at Initialization.](https://www.comp.nus.edu.sg/~lowkh/pubs/icml2022w.pdf) \
+* [DAVINZ: Data Valuation using Deep Neural Networks at Initialization.](https://proceedings.mlr.press/v162/wu22j.html){:target="_blank"} \
 <ins>Zhaoxuan Wu</ins>, Yao Shu, and Bryan Kian Hsiang Low. \
 In _Proceedings of the 39th International Conference on Machine Learning (ICML-22)_.
 
