@@ -32,7 +32,7 @@ Publications
 * [Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers.](https://arxiv.org/abs/2310.02905){:target="_blank"} \
 Xiaoqiang Lin\*, <ins>Zhaoxuan Wu\*</ins>, Zhongxiang Dai, Wenyang Hu, Yao Shu, See-Kiong Ng, Patrick Jaillet, Bryan Kian Hsiang Low. \
 In _arXiv Preprint_. \
-\[[code](https://github.com/xqlin98/INSTINCT){:target="_blank"}\]
+\[[website](https://xqlin98.github.io/INSTINCT){:target="_blank"} | [code](https://github.com/xqlin98/INSTINCT){:target="_blank"}\]
 
 * [FAIR: Fair Collaborative Active Learning with Individual Rationality for Scientific Discovery.](https://proceedings.mlr.press/v206/xu23e.html){:target="_blank"} \
 Xinyi Xu, <ins>Zhaoxuan Wu</ins>, Arun Verma, Chuan Sheng Foo, and Bryan Kian Hsiang Low. \
