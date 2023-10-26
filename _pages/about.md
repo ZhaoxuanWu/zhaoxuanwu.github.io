@@ -70,7 +70,9 @@ Invited Talks
 ======
 
 * [Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers.](https://www.bilibili.com/video/BV14C4y1n7Ji){:target="_blank"} \
-@ Deep Learning and Optimization Seminar (Jointly organized by Westlake University, CityU, Peking University). Oct 24, 2023.
+@ [Deep Learning and Optimization Seminar](https://dlo-seminar.github.io/){:target="_blank"} (Jointly organized by Westlake University, CityU, Peking University). Oct 24, 2023.
+
+<br/>
 
 Academic Activities
 ======
