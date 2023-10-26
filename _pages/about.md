@@ -66,6 +66,12 @@ In _Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence
 
 <br/>
 
+Invited Talks
+======
+
+* [Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers.](https://www.bilibili.com/video/BV14C4y1n7Ji){:target="_blank"} \
+@ Deep Learning and Optimization Seminar (Jointly organized by Westlake University, CityU, Peking University). Oct 24, 2023.
+
 Academic Activities
 ======
 
