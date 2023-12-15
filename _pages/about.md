@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student in **Data Science** at the National University of Singapore (NUS), supervised by [Assoc. Prof. Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/~lowkh/research.html){:target="_blank"}. I received my Bachelor of Science (Honors) in Data Science & Analytics and a minor in Computer Science from NUS in 2020. I am currently supported by the ISEP-IDS Scholarship jointly offered by the [NUS Graduate School Integrative Sciences and Engineering Programme](https://isep.nus.edu.sg/){:target="_blank"} (ISEP) and the
+I am a Ph.D. student in **Data Science** at the National University of Singapore (NUS), supervised by [Assoc. Prof. Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/~lowkh/research.html){:target="_blank"}. I received my Bachelor of Science (Honors) in Data Science & Analytics and a minor in Computer Science from NUS in 2020. I am currently supported by the President's Graduate Fellowship jointly offered by the [NUS Graduate School Integrative Sciences and Engineering Programme](https://isep.nus.edu.sg/){:target="_blank"} (ISEP) and the
 [Institute of Data Science](https://ids.nus.edu.sg/){:target="_blank"} (IDS), and the [Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship](https://sdsc.sg/fellowship/){:target="_blank"}.
 
 <br/>
@@ -19,6 +19,7 @@ Research Interests
 My interests include, but not limited to, the following areas:
 * Collaborative machine learning (e.g., data valuation, federated learning, incentives, fairness)
 *	Resource-efficient machine learning (e.g., Bayesian optimization)
+* Large language models (e.g., prompting)
 *	Deep learning & applications
 
 <br/>
@@ -31,8 +32,8 @@ Publications
 
 * [Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers.](https://arxiv.org/abs/2310.02905){:target="_blank"} \
 Xiaoqiang Lin\*, <ins>Zhaoxuan Wu\*</ins>, Zhongxiang Dai, Wenyang Hu, Yao Shu, See-Kiong Ng, Patrick Jaillet, Bryan Kian Hsiang Low. \
-In _arXiv Preprint_. \
-\[[website](https://xqlin98.github.io/INSTINCT){:target="_blank"} | [code](https://github.com/xqlin98/INSTINCT){:target="_blank"}\]
+In _the 37th Conference on Neural Information Processing Systems (NeurIPS’23) Workshop on Instruction Tuning and Instruction Following_. \
+\[[project page](https://xqlin98.github.io/INSTINCT){:target="_blank"} | [code](https://github.com/xqlin98/INSTINCT){:target="_blank"}\]
 
 * [FAIR: Fair Collaborative Active Learning with Individual Rationality for Scientific Discovery.](https://proceedings.mlr.press/v206/xu23e.html){:target="_blank"} \
 Xinyi Xu, <ins>Zhaoxuan Wu</ins>, Arun Verma, Chuan Sheng Foo, and Bryan Kian Hsiang Low. \
@@ -78,8 +79,10 @@ Academic Activities
 ======
 
 * Conference Reviewer
-  * AAMAS 2023
-  * ICLR 2023
-  * ACML 2022, 2023
-  * NeurIPS 2022, 2023
+  * AAAI 2024
+  * AISTATS 2024
+  * ICLR 2023, 2024
+  * AAMAS 2023, 2024
   * ICML 2022, 2023
+  * NeurIPS 2022, 2023
+  * ACML 2022, 2023
