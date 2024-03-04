@@ -76,15 +76,15 @@ In _Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence
 Book Chapters
 ======
 
-* [Data valuation in federated learning.](https://www.sciencedirect.com/science/article/abs/pii/B9780443190377000247){:target="_blank"} \
+* [Data Valuation in Federated Learning.](https://www.sciencedirect.com/science/article/abs/pii/B9780443190377000247){:target="_blank"} \
 <ins>Zhaoxuan Wu</ins>, Xinyi Xu, Rachael Hwee Ling Sim, Yao Shu, Xiaoqiang Lin, Lucas Agussurja, Zhongxiang Dai, See-Kiong Ng, Chuan-Sheng Foo, Patrick Jaillet, Trong Nghia Hoang, and Bryan Kian Hsiang Low. \
 In L. M. Nguyen, T. N. Hoang, P.-Y. Chen, editors, [_Federated Learning: Theory and Practice_](https://www.sciencedirect.com/book/9780443190377/federated-learning){:target="_blank"}, chapter 15, pages 281-296, Academic Press, 2024.
 
-* [Fairness in federated learning.](https://www.sciencedirect.com/science/article/abs/pii/B9780443190377000168){:target="_blank"} \
+* [Fairness in Federated Learning.](https://www.sciencedirect.com/science/article/abs/pii/B9780443190377000168){:target="_blank"} \
 Xiaoqiang Lin, Xinyi Xu, <ins>Zhaoxuan Wu</ins>, Rachael Hwee Ling Sim, See-Kiong Ng, Chuan-Sheng Foo, Patrick Jaillet, Trong Nghia Hoang, and Bryan Kian Hsiang Low. \
 In L. M. Nguyen, T. N. Hoang, P.-Y. Chen, editors, [_Federated Learning: Theory and Practice_](https://www.sciencedirect.com/book/9780443190377/federated-learning){:target="_blank"}, chapter 8, pages 143-160, Academic Press, 2024.
 
-* [Incentives in federated learning.](https://www.sciencedirect.com/science/article/abs/pii/B9780443190377000260){:target="_blank"} \
+* [Incentives in Federated Learning.](https://www.sciencedirect.com/science/article/abs/pii/B9780443190377000260){:target="_blank"} \
 Rachael Hwee Ling Sim, Sebastian Shenghong Tay, Xinyi Xu, Yehong Zhang, <ins>Zhaoxuan Wu</ins>, Xiaoqiang Lin, See-Kiong Ng, Chuan-Sheng Foo, Patrick Jaillet, Trong Nghia Hoang, and Bryan Kian Hsiang Low. \
 In L. M. Nguyen, T. N. Hoang, P.-Y. Chen, editors, [_Federated Learning: Theory and Practice_](https://www.sciencedirect.com/book/9780443190377/federated-learning){:target="_blank"}, chapter 16, pages 299-309, Academic Press, 2024.
 
