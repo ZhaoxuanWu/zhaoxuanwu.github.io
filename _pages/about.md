@@ -28,10 +28,16 @@ Publications
 ======
 **\* = equal contribution**
 
+### 2024
+
+* [Incentive-Aware Federated Learning with Training-Time Model Rewards.](https://openreview.net/forum?id=FlY7WQ2hWS){:target="_blank"} \
+<ins>Zhaoxuan Wu</ins>, Mohammad Mohammadi Amiri, Ramesh Raskar, and Bryan Kian Hsiang Low. \
+In _Proceedings of the 12th International Conference on Learning Representations (ICLR-24)_.
+
 ### 2023
 
 * [Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers.](https://arxiv.org/abs/2310.02905){:target="_blank"} \
-Xiaoqiang Lin\*, <ins>Zhaoxuan Wu\*</ins>, Zhongxiang Dai, Wenyang Hu, Yao Shu, See-Kiong Ng, Patrick Jaillet, Bryan Kian Hsiang Low. \
+Xiaoqiang Lin\*, <ins>Zhaoxuan Wu\*</ins>, Zhongxiang Dai, Wenyang Hu, Yao Shu, See-Kiong Ng, Patrick Jaillet, and Bryan Kian Hsiang Low. \
 In _the 37th Conference on Neural Information Processing Systems (NeurIPS’23) Workshop on Instruction Tuning and Instruction Following_. \
 \[[project page](https://xqlin98.github.io/INSTINCT){:target="_blank"} | [code](https://github.com/xqlin98/INSTINCT){:target="_blank"}\]
 
@@ -67,6 +73,21 @@ In _Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence
 
 <br/>
 
+Book Chapters
+======
+
+* [Data valuation in federated learning.](https://www.sciencedirect.com/science/article/abs/pii/B9780443190377000247){:target="_blank"} \
+<ins>Zhaoxuan Wu</ins>, Xinyi Xu, Rachael Hwee Ling Sim, Yao Shu, Xiaoqiang Lin, Lucas Agussurja, Zhongxiang Dai, See-Kiong Ng, Chuan-Sheng Foo, Patrick Jaillet, Trong Nghia Hoang, and Bryan Kian Hsiang Low. \
+In L. M. Nguyen, T. N. Hoang, P.-Y. Chen, editors, [_Federated Learning: Theory and Practice_](https://www.sciencedirect.com/book/9780443190377/federated-learning){:target="_blank"}, chapter 15, pages 281-296, Academic Press, 2024.
+
+* [Fairness in federated learning.](https://www.sciencedirect.com/science/article/abs/pii/B9780443190377000168){:target="_blank"} \
+Xiaoqiang Lin, Xinyi Xu, <ins>Zhaoxuan Wu</ins>, Rachael Hwee Ling Sim, See-Kiong Ng, Chuan-Sheng Foo, Patrick Jaillet, Trong Nghia Hoang, and Bryan Kian Hsiang Low. \
+In L. M. Nguyen, T. N. Hoang, P.-Y. Chen, editors, [_Federated Learning: Theory and Practice_](https://www.sciencedirect.com/book/9780443190377/federated-learning){:target="_blank"}, chapter 8, pages 143-160, Academic Press, 2024.
+
+* [Incentives in federated learning.](https://www.sciencedirect.com/science/article/abs/pii/B9780443190377000260){:target="_blank"} \
+Rachael Hwee Ling Sim, Sebastian Shenghong Tay, Xinyi Xu, Yehong Zhang, <ins>Zhaoxuan Wu</ins>, Xiaoqiang Lin, See-Kiong Ng, Chuan-Sheng Foo, Patrick Jaillet, Trong Nghia Hoang, and Bryan Kian Hsiang Low. \
+In L. M. Nguyen, T. N. Hoang, P.-Y. Chen, editors, [_Federated Learning: Theory and Practice_](https://www.sciencedirect.com/book/9780443190377/federated-learning){:target="_blank"}, chapter 16, pages 299-309, Academic Press, 2024.
+
 Invited Talks
 ======
 
@@ -81,6 +102,7 @@ Academic Activities
 * Conference Reviewer
   * AAAI 2024
   * AISTATS 2024
+  * IJCAI 2024
   * ICLR 2023, 2024
   * AAMAS 2023, 2024
   * ICML 2022, 2023
