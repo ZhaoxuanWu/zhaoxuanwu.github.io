@@ -34,6 +34,10 @@ Publications
 <ins>Zhaoxuan Wu</ins>, Mohammad Mohammadi Amiri, Ramesh Raskar, and Bryan Kian Hsiang Low. \
 In _Proceedings of the 12th International Conference on Learning Representations (ICLR-24)_.
 
+* [Localized Zeroth-Order Prompt Optimization.](https://arxiv.org/abs/2403.02993){:target="_blank"} \
+Wenyang Hu, Yao Shu, Zongmin Yu, <ins>Zhaoxuan Wu</ins>, Xiangqiang Lin, Zhongxiang Dai, See-Kiong Ng, and Bryan Kian Hsiang Low. \
+In _arXiv Pre-print_.
+
 ### 2023
 
 * [Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers.](https://arxiv.org/abs/2310.02905){:target="_blank"} \
@@ -105,7 +109,7 @@ Academic Activities
   * IJCAI 2024
   * ICLR 2023, 2024
   * AAMAS 2023, 2024
-  * ICML 2022, 2023
+  * ICML 2022, 2023, 2024
   * NeurIPS 2022, 2023
   * ACML 2022, 2023
 * Received Top Reviewer for NeurIPS 2023
