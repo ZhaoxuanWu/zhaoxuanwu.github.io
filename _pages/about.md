@@ -30,6 +30,22 @@ Publications
 
 ### 2024
 
+* [Prompt Optimization with EASE? Efficient Ordering-aware Automated Selection of Exemplars](https://arxiv.org/abs/2405.16122){:target="_blank"} \
+<ins>Zhaoxuan Wu\*</ins>, Xiaoqiang Lin\*, Zhongxiang Dai, Wenyang Hu, Yao Shu, See-Kiong Ng, Patrick Jaillet, and Bryan Kian Hsiang Low. \
+In _arXiv Pre-print_. \
+[[code](https://github.com/ZhaoxuanWu/EASE-Prompt-Optimization){:target="_blank"}]
+
+* [Use Your INSTINCT: INSTruction optimization for LLMs usIng Neural bandits Coupled with Transformers.](https://arxiv.org/abs/2310.02905){:target="_blank"} \
+Xiaoqiang Lin\*, <ins>Zhaoxuan Wu\*</ins>, Zhongxiang Dai, Wenyang Hu, Yao Shu, See-Kiong Ng, Patrick Jaillet, and Bryan Kian Hsiang Low. \
+In _Proceedings of the 41th International Conference on Machine Learning (ICML-24)_. \
+[[project page](https://xqlin98.github.io/INSTINCT){:target="_blank"} | [code](https://github.com/xqlin98/INSTINCT){:target="_blank"}\]
+
+<!-- In _the 37th Conference on Neural Information Processing Systems (NeurIPS’23) Workshop on Instruction Tuning and Instruction Following_. \ --> 
+
+* [Distributionally Robust Data Valuation](){:target="_blank"} \
+Xiaoqiang Lin, Xinyi Xu, <ins>Zhaoxuan Wu</ins>, See-Kiong Ng, and Bryan Kian Hsiang Low. \
+In _Proceedings of the 41th International Conference on Machine Learning (ICML-24)_.
+
 * [Incentive-Aware Federated Learning with Training-Time Model Rewards.](https://openreview.net/forum?id=FlY7WQ2hWS){:target="_blank"} \
 <ins>Zhaoxuan Wu</ins>, Mohammad Mohammadi Amiri, Ramesh Raskar, and Bryan Kian Hsiang Low. \
 In _Proceedings of the 12th International Conference on Learning Representations (ICLR-24)_.
@@ -39,11 +55,6 @@ Wenyang Hu, Yao Shu, Zongmin Yu, <ins>Zhaoxuan Wu</ins>, Xiangqiang Lin, Zhongxi
 In _arXiv Pre-print_.
 
 ### 2023
-
-* [Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers.](https://arxiv.org/abs/2310.02905){:target="_blank"} \
-Xiaoqiang Lin\*, <ins>Zhaoxuan Wu\*</ins>, Zhongxiang Dai, Wenyang Hu, Yao Shu, See-Kiong Ng, Patrick Jaillet, and Bryan Kian Hsiang Low. \
-In _the 37th Conference on Neural Information Processing Systems (NeurIPS’23) Workshop on Instruction Tuning and Instruction Following_. \
-\[[project page](https://xqlin98.github.io/INSTINCT){:target="_blank"} | [code](https://github.com/xqlin98/INSTINCT){:target="_blank"}\]
 
 * [FAIR: Fair Collaborative Active Learning with Individual Rationality for Scientific Discovery.](https://proceedings.mlr.press/v206/xu23e.html){:target="_blank"} \
 Xinyi Xu, <ins>Zhaoxuan Wu</ins>, Arun Verma, Chuan Sheng Foo, and Bryan Kian Hsiang Low. \
