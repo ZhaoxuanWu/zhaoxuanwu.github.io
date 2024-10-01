@@ -30,18 +30,20 @@ Publications
 
 ### 2024
 
-* [Data-Centric AI in the Age of Large Language Models.](https://arxiv.org/abs/2406.14473){:target="_blank"} \
-Xinyi Xu, <ins>Zhaoxuan Wu</ins>, Rui Qiao, Arun Verma, Yao Shu, Jingtan Wang, Xinyuan Niu, Zhenfeng He, Jiangwei Chen, Zijian Zhou, Gregory Kang Ruey Lau, Hieu Dao, Lucas Agussurja, Rachael Hwee Ling Sim, Xiaoqiang Lin, Wenyang Hu, Zhongxiang Dai, Pang Wei Koh, and Bryan Kian Hsiang Low. \
-In _arXiv Pre-print_. 
-
 * [Prompt Optimization with EASE? Efficient Ordering-aware Automated Selection of Exemplars.](https://arxiv.org/abs/2405.16122){:target="_blank"} \
 <ins>Zhaoxuan Wu\*</ins>, Xiaoqiang Lin\*, Zhongxiang Dai, Wenyang Hu, Yao Shu, See-Kiong Ng, Patrick Jaillet, and Bryan Kian Hsiang Low. \
-In _ICML Workshop on In-Context Learning 2024_. \
+In _Advances in Neural Information Processing Systems 37: 38th Annual Conference on Neural Information Processing Systems (NeurIPS-24)_. \
+Also in _ICML Workshop on In-Context Learning 2024_. \
 [[code](https://github.com/ZhaoxuanWu/EASE-Prompt-Optimization){:target="_blank"}]
 
 * [Localized Zeroth-Order Prompt Optimization.](https://arxiv.org/abs/2403.02993){:target="_blank"} \
 Wenyang Hu, Yao Shu, Zongmin Yu, <ins>Zhaoxuan Wu</ins>, Xiangqiang Lin, Zhongxiang Dai, See-Kiong Ng, and Bryan Kian Hsiang Low. \
+In _Advances in Neural Information Processing Systems 37: 38th Annual Conference on Neural Information Processing Systems (NeurIPS-24)_ - **Spotlight**. \
 In _ICML Workshop on In-Context Learning 2024_.
+
+* [Data-Centric AI in the Age of Large Language Models.](https://arxiv.org/abs/2406.14473){:target="_blank"} \
+Xinyi Xu, <ins>Zhaoxuan Wu</ins>, Rui Qiao, Arun Verma, Yao Shu, Jingtan Wang, Xinyuan Niu, Zhenfeng He, Jiangwei Chen, Zijian Zhou, Gregory Kang Ruey Lau, Hieu Dao, Lucas Agussurja, Rachael Hwee Ling Sim, Xiaoqiang Lin, Wenyang Hu, Zhongxiang Dai, Pang Wei Koh, and Bryan Kian Hsiang Low. \
+In _Proceedings of the Conference on Empirical Methods in Natural Language Processing 2024 (EMNLP-24) Findings_.
 
 * [Use Your INSTINCT: INSTruction optimization for LLMs usIng Neural bandits Coupled with Transformers.](https://arxiv.org/abs/2310.02905){:target="_blank"} \
 Xiaoqiang Lin\*, <ins>Zhaoxuan Wu\*</ins>, Zhongxiang Dai, Wenyang Hu, Yao Shu, See-Kiong Ng, Patrick Jaillet, and Bryan Kian Hsiang Low. \
