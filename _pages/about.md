@@ -39,7 +39,7 @@ Also in _ICML Workshop on In-Context Learning 2024_. \
 * [Localized Zeroth-Order Prompt Optimization.](https://arxiv.org/abs/2403.02993){:target="_blank"} \
 Wenyang Hu, Yao Shu, Zongmin Yu, <ins>Zhaoxuan Wu</ins>, Xiangqiang Lin, Zhongxiang Dai, See-Kiong Ng, and Bryan Kian Hsiang Low. \
 In _Advances in Neural Information Processing Systems 37: 38th Annual Conference on Neural Information Processing Systems (NeurIPS-24)_ - **Spotlight**. \
-In _ICML Workshop on In-Context Learning 2024_.
+Also in _ICML Workshop on In-Context Learning 2024_.
 
 * [Data-Centric AI in the Age of Large Language Models.](https://arxiv.org/abs/2406.14473){:target="_blank"} \
 Xinyi Xu, <ins>Zhaoxuan Wu</ins>, Rui Qiao, Arun Verma, Yao Shu, Jingtan Wang, Xinyuan Niu, Zhenfeng He, Jiangwei Chen, Zijian Zhou, Gregory Kang Ruey Lau, Hieu Dao, Lucas Agussurja, Rachael Hwee Ling Sim, Xiaoqiang Lin, Wenyang Hu, Zhongxiang Dai, Pang Wei Koh, and Bryan Kian Hsiang Low. \
