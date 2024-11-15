@@ -9,7 +9,10 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student in **Data Science** at the National University of Singapore (NUS), supervised by [Assoc. Prof. Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/~lowkh/research.html){:target="_blank"}. I received my Bachelor of Science (Honors) in Data Science & Analytics and a minor in Computer Science from NUS in 2020. I am currently supported by the President's Graduate Fellowship jointly offered by the [NUS Graduate School Integrative Sciences and Engineering Programme](https://isep.nus.edu.sg/){:target="_blank"} (ISEP) and the
+I am a Postdoctoral Associate at the Singapore-MIT Alliance for Research and Technology (SMART), a major research enterprise established by the Massachusetts Institute of Technology (MIT) in partnership with the National Research Foundation of Singapore (NRF).
+
+I received my Ph.D. in **Data Science** from the National University of Singapore (NUS), supervised by [Assoc. Prof. Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/~lowkh/research.html){:target="_blank"} in 2024. I received my Bachelor of Science (Honors) in Data Science & Analytics and a minor in Computer Science from NUS in 2020. 
+My Ph.D. was supported by the President's Graduate Fellowship jointly offered by the [NUS Graduate School Integrative Sciences and Engineering Programme](https://isep.nus.edu.sg/){:target="_blank"} (ISEP) and the
 [Institute of Data Science](https://ids.nus.edu.sg/){:target="_blank"} (IDS), and the [Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship](https://sdsc.sg/fellowship/){:target="_blank"}.
 
 <br/>
@@ -17,9 +20,9 @@ I am a Ph.D. student in **Data Science** at the National University of Singapore
 Research Interests
 ======
 My interests include, but not limited to, the following areas:
-* Collaborative machine learning (e.g., data valuation, federated learning, incentives, fairness)
+* Data-centric AI (e.g., data valuation & selection, collaborative machine learning, incentives, fairness)
 *	Resource-efficient machine learning (e.g., Bayesian optimization)
-* Large language models (e.g., prompting)
+* Large language models (e.g., inference-time techniques, prompting)
 *	Deep learning & applications
 
 <br/>
@@ -41,7 +44,7 @@ Wenyang Hu, Yao Shu, Zongmin Yu, <ins>Zhaoxuan Wu</ins>, Xiangqiang Lin, Zhongxi
 In _Advances in Neural Information Processing Systems 37: 38th Annual Conference on Neural Information Processing Systems (NeurIPS-24)_ - **Spotlight**. \
 Also in _ICML Workshop on In-Context Learning 2024_.
 
-* [Data-Centric AI in the Age of Large Language Models.](https://arxiv.org/abs/2406.14473){:target="_blank"} \
+* [Position Paper: Data-Centric AI in the Age of Large Language Models.](https://arxiv.org/abs/2406.14473){:target="_blank"} \
 Xinyi Xu, <ins>Zhaoxuan Wu</ins>, Rui Qiao, Arun Verma, Yao Shu, Jingtan Wang, Xinyuan Niu, Zhenfeng He, Jiangwei Chen, Zijian Zhou, Gregory Kang Ruey Lau, Hieu Dao, Lucas Agussurja, Rachael Hwee Ling Sim, Xiaoqiang Lin, Wenyang Hu, Zhongxiang Dai, Pang Wei Koh, and Bryan Kian Hsiang Low. \
 In _Proceedings of the Conference on Empirical Methods in Natural Language Processing 2024 (EMNLP-24) Findings_.
 
@@ -123,12 +126,12 @@ Academic Activities
 ======
 
 * Conference Reviewer
-  * AAAI 2024
+  * AAAI 2024, 2025
   * AISTATS 2024
   * IJCAI 2024
-  * ICLR 2023, 2024
-  * AAMAS 2023, 2024
+  * ICLR 2023, 2024, 2025
+  * AAMAS 2023, 2024, 2025
   * ICML 2022, 2023, 2024
-  * NeurIPS 2022, 2023
+  * NeurIPS 2022, 2023, 204
   * ACML 2022, 2023
 * Received Top Reviewer for NeurIPS 2023
