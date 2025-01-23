@@ -31,6 +31,17 @@ Publications
 ======
 **\* = equal contribution**
 
+### 2025
+
+* [Mitigating Spurious Correlations via Group-robust Sample Reweighting.](https://openreview.net/forum?id=aQj9Ifxrl6){:target="_blank"} \
+Rui Qiao, <ins>Zhaoxuan Wu</ins>, Jingtan Wang, Pang Wei Koh, and Bryan Kian Hsiang Low. \
+In _Proceedings of the 13th International Conference on Learning Representations (ICLR-25)_.
+	
+* [Paid with Models: Optimal Contract Design for Collaborative Machine Learning.](https://arxiv.org/abs/2412.11122){:target="_blank"} \
+Bingchen Wang, <ins>Zhaoxuan Wu</ins>, Fusheng Liu, and Bryan Kian Hsiang Low. \
+In _Proceedings of the 39th AAAI Conference on Artificial
+Intelligence (AAAI-25)_ - **Oral**.
+
 ### 2024
 
 * [Prompt Optimization with EASE? Efficient Ordering-aware Automated Selection of Exemplars.](https://arxiv.org/abs/2405.16122){:target="_blank"} \
@@ -132,6 +143,6 @@ Academic Activities
   * ICLR 2023, 2024, 2025
   * AAMAS 2023, 2024, 2025
   * ICML 2022, 2023, 2024
-  * NeurIPS 2022, 2023, 204
+  * NeurIPS 2022, 2023, 2024
   * ACML 2022, 2023
 * Received Top Reviewer for NeurIPS 2023
