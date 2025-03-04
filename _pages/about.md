@@ -32,8 +32,12 @@ Publications
 **\* = equal contribution**
 
 ### 2025
+* [TETRIS: Optimal Draft Token Selection for Batch Speculative Decoding.](https://arxiv.org/abs/2502.15197){:target="_blank"} \
+<ins>Zhaoxuan Wu\*</ins>, Zijian Zhou\*, Arun Verma, Alok Prakash, Daniela Rus, and Bryan Kian Hsiang Low. \
+In _arXiv Pre-print_.
 
-* [Mitigating Spurious Correlations via Group-robust Sample Reweighting.](https://openreview.net/forum?id=aQj9Ifxrl6){:target="_blank"} \
+
+* [Group-robust Sample Reweighting for Subpopulation Shifts via Influence Functions.](https://openreview.net/forum?id=aQj9Ifxrl6){:target="_blank"} \
 Rui Qiao, <ins>Zhaoxuan Wu</ins>, Jingtan Wang, Pang Wei Koh, and Bryan Kian Hsiang Low. \
 In _Proceedings of the 13th International Conference on Learning Representations (ICLR-25)_.
 	
@@ -44,29 +48,29 @@ Intelligence (AAAI-25)_ - **Oral**.
 
 ### 2024
 
-* [Prompt Optimization with EASE? Efficient Ordering-aware Automated Selection of Exemplars.](https://arxiv.org/abs/2405.16122){:target="_blank"} \
+* [Prompt Optimization with EASE? Efficient Ordering-aware Automated Selection of Exemplars.](https://proceedings.neurips.cc/paper_files/paper/2024/hash/dd8e7dae18cecd7c9137840161e1bf62-Abstract-Conference.html){:target="_blank"} \
 <ins>Zhaoxuan Wu\*</ins>, Xiaoqiang Lin\*, Zhongxiang Dai, Wenyang Hu, Yao Shu, See-Kiong Ng, Patrick Jaillet, and Bryan Kian Hsiang Low. \
 In _Advances in Neural Information Processing Systems 37: 38th Annual Conference on Neural Information Processing Systems (NeurIPS-24)_. \
 Also in _ICML Workshop on In-Context Learning 2024_. \
 [[code](https://github.com/ZhaoxuanWu/EASE-Prompt-Optimization){:target="_blank"}]
 
-* [Localized Zeroth-Order Prompt Optimization.](https://arxiv.org/abs/2403.02993){:target="_blank"} \
+* [Localized Zeroth-Order Prompt Optimization.](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9cef1316eaef9bd99da46f63334dc031-Abstract-Conference.html){:target="_blank"} \
 Wenyang Hu, Yao Shu, Zongmin Yu, <ins>Zhaoxuan Wu</ins>, Xiangqiang Lin, Zhongxiang Dai, See-Kiong Ng, and Bryan Kian Hsiang Low. \
 In _Advances in Neural Information Processing Systems 37: 38th Annual Conference on Neural Information Processing Systems (NeurIPS-24)_ - **Spotlight**. \
 Also in _ICML Workshop on In-Context Learning 2024_.
 
-* [Position Paper: Data-Centric AI in the Age of Large Language Models.](https://arxiv.org/abs/2406.14473){:target="_blank"} \
+* [Position Paper: Data-Centric AI in the Age of Large Language Models.](https://aclanthology.org/2024.findings-emnlp.695/){:target="_blank"} \
 Xinyi Xu, <ins>Zhaoxuan Wu</ins>, Rui Qiao, Arun Verma, Yao Shu, Jingtan Wang, Xinyuan Niu, Zhenfeng He, Jiangwei Chen, Zijian Zhou, Gregory Kang Ruey Lau, Hieu Dao, Lucas Agussurja, Rachael Hwee Ling Sim, Xiaoqiang Lin, Wenyang Hu, Zhongxiang Dai, Pang Wei Koh, and Bryan Kian Hsiang Low. \
 In _Proceedings of the Conference on Empirical Methods in Natural Language Processing 2024 (EMNLP-24) Findings_.
 
-* [Use Your INSTINCT: INSTruction optimization for LLMs usIng Neural bandits Coupled with Transformers.](https://arxiv.org/abs/2310.02905){:target="_blank"} \
+* [Use Your INSTINCT: INSTruction optimization for LLMs usIng Neural bandits Coupled with Transformers.](https://proceedings.mlr.press/v235/lin24r.html){:target="_blank"} \
 Xiaoqiang Lin\*, <ins>Zhaoxuan Wu\*</ins>, Zhongxiang Dai, Wenyang Hu, Yao Shu, See-Kiong Ng, Patrick Jaillet, and Bryan Kian Hsiang Low. \
 In _Proceedings of the 41st International Conference on Machine Learning (ICML-24)_. \
 [[project page](https://xqlin98.github.io/INSTINCT){:target="_blank"} | [code](https://github.com/xqlin98/INSTINCT){:target="_blank"}\]
 
 <!-- In _the 37th Conference on Neural Information Processing Systems (NeurIPS’23) Workshop on Instruction Tuning and Instruction Following_. \ --> 
 
-* [Distributionally Robust Data Valuation.]() \
+* [Distributionally Robust Data Valuation.](https://proceedings.mlr.press/v235/lin24t.html){:target="_blank"} \
 Xiaoqiang Lin, Xinyi Xu, <ins>Zhaoxuan Wu</ins>, See-Kiong Ng, and Bryan Kian Hsiang Low. \
 In _Proceedings of the 41st International Conference on Machine Learning (ICML-24)_.
 
