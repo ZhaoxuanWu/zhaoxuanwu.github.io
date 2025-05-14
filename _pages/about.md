@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral Associate at the Singapore-MIT Alliance for Research and Technology (SMART), a major research enterprise established by the Massachusetts Institute of Technology (MIT) in partnership with the National Research Foundation of Singapore (NRF).
+I am a Postdoctoral Associate at the Singapore-MIT Alliance for Research and Technology (SMART), a major research enterprise established by the Massachusetts Institute of Technology (MIT) in partnership with the National Research Foundation of Singapore (NRF). I am currently working with [Prof. Daniela Rus](https://danielarus.csail.mit.edu/){:target="_blank"} and [Assoc. Prof. Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/~lowkh/research.html){:target="_blank"}.
 
 I received my Ph.D. in **Data Science** from the National University of Singapore (NUS), supervised by [Assoc. Prof. Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/~lowkh/research.html){:target="_blank"} in 2024. I received my Bachelor of Science (Honors) in Data Science & Analytics and a minor in Computer Science from NUS in 2020. 
 My Ph.D. was supported by the President's Graduate Fellowship jointly offered by the [NUS Graduate School Integrative Sciences and Engineering Programme](https://isep.nus.edu.sg/){:target="_blank"} (ISEP) and the
@@ -146,7 +146,7 @@ Academic Activities
   * IJCAI 2024
   * ICLR 2023, 2024, 2025
   * AAMAS 2023, 2024, 2025
-  * ICML 2022, 2023, 2024
+  * ICML 2022, 2023, 2024, 2025
   * NeurIPS 2022, 2023, 2024
   * ACML 2022, 2023
 * Received Top Reviewer for NeurIPS 2023
