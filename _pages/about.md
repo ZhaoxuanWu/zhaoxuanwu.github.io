@@ -34,7 +34,7 @@ Publications
 ### 2025
 * [TETRIS: Optimal Draft Token Selection for Batch Speculative Decoding.](https://arxiv.org/abs/2502.15197){:target="_blank"} \
 <ins>Zhaoxuan Wu\*</ins>, Zijian Zhou\*, Arun Verma, Alok Prakash, Daniela Rus, and Bryan Kian Hsiang Low. \
-In _arXiv Pre-print_.
+In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-25)._
 
 
 * [Group-robust Sample Reweighting for Subpopulation Shifts via Influence Functions.](https://openreview.net/forum?id=aQj9Ifxrl6){:target="_blank"} \
