@@ -69,6 +69,7 @@ In _Proceedings of the Conference on Empirical Methods in Natural Language Proce
 * [Use Your INSTINCT: INSTruction optimization for LLMs usIng Neural bandits Coupled with Transformers.](https://proceedings.mlr.press/v235/lin24r.html){:target="_blank"} \
 Xiaoqiang Lin\*, <ins>Zhaoxuan Wu\*</ins>, Zhongxiang Dai, Wenyang Hu, Yao Shu, See-Kiong Ng, Patrick Jaillet, and Bryan Kian Hsiang Low. \
 In _Proceedings of the 41st International Conference on Machine Learning (ICML-24)_. \
+Also in _NeurIPS  Workshop on Instruction Tuning and Instruction Following 2023_. \
 [[project page](https://xqlin98.github.io/INSTINCT){:target="_blank"} | [code](https://github.com/xqlin98/INSTINCT){:target="_blank"}\]
 
 <!-- In _the 37th Conference on Neural Information Processing Systems (NeurIPS’23) Workshop on Instruction Tuning and Instruction Following_. \ --> 
