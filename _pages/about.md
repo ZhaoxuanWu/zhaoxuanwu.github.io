@@ -34,17 +34,19 @@ Publications
 ### 2025
 * [TETRIS: Optimal Draft Token Selection for Batch Speculative Decoding.](https://arxiv.org/abs/2502.15197){:target="_blank"} \
 <ins>Zhaoxuan Wu\*</ins>, Zijian Zhou\*, Arun Verma, Alok Prakash, Daniela Rus, and Bryan Kian Hsiang Low. \
-In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-25)._
-
+In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-25)._ \
+[[code](https://github.com/ZhaoxuanWu/Tetris){:target="_blank"}]
 
 * [Group-robust Sample Reweighting for Subpopulation Shifts via Influence Functions.](https://openreview.net/forum?id=aQj9Ifxrl6){:target="_blank"} \
 Rui Qiao, <ins>Zhaoxuan Wu</ins>, Jingtan Wang, Pang Wei Koh, and Bryan Kian Hsiang Low. \
-In _Proceedings of the 13th International Conference on Learning Representations (ICLR-25)_.
+In _Proceedings of the 13th International Conference on Learning Representations (ICLR-25)_. \
+[[code](https://github.com/qiaoruiyt/GSR){:target="_blank"}]
 	
 * [Paid with Models: Optimal Contract Design for Collaborative Machine Learning.](https://arxiv.org/abs/2412.11122){:target="_blank"} \
 Bingchen Wang, <ins>Zhaoxuan Wu</ins>, Fusheng Liu, and Bryan Kian Hsiang Low. \
 In _Proceedings of the 39th AAAI Conference on Artificial
-Intelligence (AAAI-25)_ - **Oral**.
+Intelligence (AAAI-25)_ - **Oral**. \
+[[code](https://github.com/bingchen-wang/paid-with-models){:target="_blank"}]
 
 ### 2024
 
@@ -57,7 +59,8 @@ Also in _ICML Workshop on In-Context Learning 2024_. \
 * [Localized Zeroth-Order Prompt Optimization.](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9cef1316eaef9bd99da46f63334dc031-Abstract-Conference.html){:target="_blank"} \
 Wenyang Hu, Yao Shu, Zongmin Yu, <ins>Zhaoxuan Wu</ins>, Xiangqiang Lin, Zhongxiang Dai, See-Kiong Ng, and Bryan Kian Hsiang Low. \
 In _Advances in Neural Information Processing Systems 37: 38th Annual Conference on Neural Information Processing Systems (NeurIPS-24)_ - **Spotlight**. \
-Also in _ICML Workshop on In-Context Learning 2024_.
+Also in _ICML Workshop on In-Context Learning 2024_. \
+[[code](https://github.com/allen4747/ZOPO){:target="_blank"}]
 
 * [Position Paper: Data-Centric AI in the Age of Large Language Models.](https://aclanthology.org/2024.findings-emnlp.695/){:target="_blank"} \
 Xinyi Xu, <ins>Zhaoxuan Wu</ins>, Rui Qiao, Arun Verma, Yao Shu, Jingtan Wang, Xinyuan Niu, Zhenfeng He, Jiangwei Chen, Zijian Zhou, Gregory Kang Ruey Lau, Hieu Dao, Lucas Agussurja, Rachael Hwee Ling Sim, Xiaoqiang Lin, Wenyang Hu, Zhongxiang Dai, Pang Wei Koh, and Bryan Kian Hsiang Low. \
@@ -72,7 +75,8 @@ In _Proceedings of the 41st International Conference on Machine Learning (ICML-2
 
 * [Distributionally Robust Data Valuation.](https://proceedings.mlr.press/v235/lin24t.html){:target="_blank"} \
 Xiaoqiang Lin, Xinyi Xu, <ins>Zhaoxuan Wu</ins>, See-Kiong Ng, and Bryan Kian Hsiang Low. \
-In _Proceedings of the 41st International Conference on Machine Learning (ICML-24)_.
+In _Proceedings of the 41st International Conference on Machine Learning (ICML-24)_. \
+[[code](https://github.com/xqlin98/Distributionally-Robust-Data-Valuation){:target="_blank"}]
 
 * [Incentive-Aware Federated Learning with Training-Time Model Rewards.](https://openreview.net/forum?id=FlY7WQ2hWS){:target="_blank"} \
 <ins>Zhaoxuan Wu</ins>, Mohammad Mohammadi Amiri, Ramesh Raskar, and Bryan Kian Hsiang Low. \
