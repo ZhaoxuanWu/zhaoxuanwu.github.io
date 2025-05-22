@@ -155,3 +155,4 @@ Academic Activities
   * NeurIPS 2022, 2023, 2024
   * ACML 2022, 2023
 * Received Top Reviewer for NeurIPS 2023
+* Received Notable Reviewer for ICLR 2025
