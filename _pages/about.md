@@ -32,6 +32,10 @@ Publications
 **\* = equal contribution**
 
 ### 2025
+* [MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents](https://arxiv.org/abs/2506.15841){:target="_blank"} \
+Zijian Zhou\*, Ao Qu\*, <ins>Zhaoxuan Wu</ins>, Sunghwan Kim, Alok Prakash, Daniela Rus, Jinhua Zhao, Bryan Kian Hsiang Low, and Paul Pu Liang. \
+In arXiv Pre-print.
+
 * [TETRIS: Optimal Draft Token Selection for Batch Speculative Decoding.](https://arxiv.org/abs/2502.15197){:target="_blank"} \
 <ins>Zhaoxuan Wu\*</ins>, Zijian Zhou\*, Arun Verma, Alok Prakash, Daniela Rus, and Bryan Kian Hsiang Low. \
 In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-25)._ \
