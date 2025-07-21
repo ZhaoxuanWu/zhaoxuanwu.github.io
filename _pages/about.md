@@ -32,7 +32,7 @@ Publications
 **\* = equal contribution**
 
 ### 2025
-* [MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents](https://arxiv.org/abs/2506.15841){:target="_blank"} \
+* [MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents.](https://arxiv.org/abs/2506.15841){:target="_blank"} \
 Zijian Zhou\*, Ao Qu\*, <ins>Zhaoxuan Wu</ins>, Sunghwan Kim, Alok Prakash, Daniela Rus, Jinhua Zhao, Bryan Kian Hsiang Low, and Paul Pu Liang. \
 In arXiv Pre-print.
 
