@@ -32,6 +32,15 @@ Publications
 **\* = equal contribution**
 
 ### 2025
+
+* [Incentivizing Time-Aware Fairness in Data Sharing.](){:target="_blank"} \
+Jiangwei Chen, Kieu Thao Nguyen Pham, Rachael Hwee Ling Sim, Arun Verma, <ins>Zhaoxuan Wu</ins>, Chuan-Sheng Foo, Bryan Kian Hsiang Low. \
+In _Advances in Neural Information Processing Systems 38: 39th Annual Conference on Neural Information Processing Systems (NeurIPS-25)_.
+
+* [Position Paper: Uncovering Scaling Laws for Large Language Models via Inverse Problems.](https://arxiv.org/abs/2509.07909){:target="_blank"} \
+Arun Verma, <ins>Zhaoxuan Wu</ins>, Zijian Zhou, Xiaoqiang Lin, Zhiliang Chen, Rachael Hwee Ling Sim, Rui Qiao, Jingtan Wang, Nhung Bui, Xinyuan Niu, Wenyang Hu, Gregory Kang Ruey Lau, Zi-Yu Khoo, Zitong Zhao, Xinyi Xu, Apivich Hemachandra, See-Kiong Ng, and Bryan Kian Hsiang Low. \
+In _Proceedings of the Conference on Empirical Methods in Natural Language Processing 2025 (EMNLP-25) Findings_.
+
 * [MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents.](https://arxiv.org/abs/2506.15841){:target="_blank"} \
 Zijian Zhou\*, Ao Qu\*, <ins>Zhaoxuan Wu</ins>, Sunghwan Kim, Alok Prakash, Daniela Rus, Jinhua Zhao, Bryan Kian Hsiang Low, and Paul Pu Liang. \
 In arXiv Pre-print.
