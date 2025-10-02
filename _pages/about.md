@@ -43,7 +43,9 @@ In _Proceedings of the Conference on Empirical Methods in Natural Language Proce
 
 * [MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents.](https://arxiv.org/abs/2506.15841){:target="_blank"} \
 Zijian Zhou\*, Ao Qu\*, <ins>Zhaoxuan Wu</ins>, Sunghwan Kim, Alok Prakash, Daniela Rus, Jinhua Zhao, Bryan Kian Hsiang Low, and Paul Pu Liang. \
-In arXiv Pre-print.
+In _COLM Workshop on Reasoning, Attention & Memory 2 (RAM2@COLM25)_ - **Oral**. \
+Also in _arXiv Pre-print_. \
+[[code](https://github.com/MIT-MI/MEM1){:target="_blank"}]
 
 * [TETRIS: Optimal Draft Token Selection for Batch Speculative Decoding.](https://arxiv.org/abs/2502.15197){:target="_blank"} \
 <ins>Zhaoxuan Wu\*</ins>, Zijian Zhou\*, Arun Verma, Alok Prakash, Daniela Rus, and Bryan Kian Hsiang Low. \
@@ -159,13 +161,14 @@ Academic Activities
 ======
 
 * Conference Reviewer
+  * ARR 2025
   * AAAI 2024, 2025
   * AISTATS 2024
   * IJCAI 2024
   * ICLR 2023, 2024, 2025
   * AAMAS 2023, 2024, 2025
   * ICML 2022, 2023, 2024, 2025
-  * NeurIPS 2022, 2023, 2024
+  * NeurIPS 2022, 2023, 2024, 2025
   * ACML 2022, 2023
 * Received Top Reviewer for NeurIPS 2023
 * Received Notable Reviewer for ICLR 2025
