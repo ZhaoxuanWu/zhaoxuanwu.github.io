@@ -161,7 +161,7 @@ Academic Activities
 ======
 
 * Conference Reviewer
-  * ARR 2025
+  * ACL ARR 2025
   * AAAI 2024, 2025
   * AISTATS 2024
   * IJCAI 2024
