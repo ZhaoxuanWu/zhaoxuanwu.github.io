@@ -43,7 +43,8 @@ In _Proceedings of the Conference on Empirical Methods in Natural Language Proce
 
 * [MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents.](https://arxiv.org/abs/2506.15841){:target="_blank"} \
 Zijian Zhou\*, Ao Qu\*, <ins>Zhaoxuan Wu</ins>, Sunghwan Kim, Alok Prakash, Daniela Rus, Jinhua Zhao, Bryan Kian Hsiang Low, and Paul Pu Liang. \
-In _COLM Workshop on Reasoning, Attention & Memory 2 (RAM2@COLM25)_ - **Oral**. \
+In _NeurIPS Workshop on Multi-Turn Interactions in Large Language Models (MTI-LLM @ NeurIPS-25)_ - **Oral \& Top 1\% of papers**.\
+Also in _COLM Workshop on Reasoning, Attention & Memory 2 (RAM2 @ COLM-25)_ - **Oral**. \
 Also in _arXiv Pre-print_. \
 [[code](https://github.com/MIT-MI/MEM1){:target="_blank"}]
 
