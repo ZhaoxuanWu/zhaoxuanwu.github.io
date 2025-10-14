@@ -33,7 +33,7 @@ Publications
 
 ### 2025
 
-* [Incentivizing Time-Aware Fairness in Data Sharing.](){:target="_blank"} \
+* [Incentivizing Time-Aware Fairness in Data Sharing.](https://arxiv.org/abs/2510.09240v1){:target="_blank"} \
 Jiangwei Chen, Kieu Thao Nguyen Pham, Rachael Hwee Ling Sim, Arun Verma, <ins>Zhaoxuan Wu</ins>, Chuan-Sheng Foo, Bryan Kian Hsiang Low. \
 In _Advances in Neural Information Processing Systems 38: 39th Annual Conference on Neural Information Processing Systems (NeurIPS-25)_.
 
@@ -48,7 +48,7 @@ Also in _COLM Workshop on Reasoning, Attention & Memory 2 (RAM2 @ COLM-25)_ - **
 Also in _arXiv Pre-print_. \
 [[code](https://github.com/MIT-MI/MEM1){:target="_blank"}]
 
-* [TETRIS: Optimal Draft Token Selection for Batch Speculative Decoding.](https://arxiv.org/abs/2502.15197){:target="_blank"} \
+* [TETRIS: Optimal Draft Token Selection for Batch Speculative Decoding.](https://aclanthology.org/2025.acl-long.1598){:target="_blank"} \
 <ins>Zhaoxuan Wu\*</ins>, Zijian Zhou\*, Arun Verma, Alok Prakash, Daniela Rus, and Bryan Kian Hsiang Low. \
 In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-25)._ \
 [[code](https://github.com/ZhaoxuanWu/Tetris){:target="_blank"}]
