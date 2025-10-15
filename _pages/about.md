@@ -34,7 +34,7 @@ Publications
 ### 2025
 
 * [Incentivizing Time-Aware Fairness in Data Sharing.](https://arxiv.org/abs/2510.09240v1){:target="_blank"} \
-Jiangwei Chen, Kieu Thao Nguyen Pham, Rachael Hwee Ling Sim, Arun Verma, <ins>Zhaoxuan Wu</ins>, Chuan-Sheng Foo, Bryan Kian Hsiang Low. \
+Jiangwei Chen, Kieu Thao Nguyen Pham, Rachael Hwee Ling Sim, Arun Verma, <ins>Zhaoxuan Wu</ins>, Chuan-Sheng Foo, and Bryan Kian Hsiang Low. \
 In _Advances in Neural Information Processing Systems 38: 39th Annual Conference on Neural Information Processing Systems (NeurIPS-25)_.
 
 * [Position Paper: Uncovering Scaling Laws for Large Language Models via Inverse Problems.](https://arxiv.org/abs/2509.07909){:target="_blank"} \
