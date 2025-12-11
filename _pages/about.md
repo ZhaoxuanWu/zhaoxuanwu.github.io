@@ -37,13 +37,13 @@ Publications
 Jiangwei Chen, Kieu Thao Nguyen Pham, Rachael Hwee Ling Sim, Arun Verma, <ins>Zhaoxuan Wu</ins>, Chuan-Sheng Foo, and Bryan Kian Hsiang Low. \
 In _Advances in Neural Information Processing Systems 38: 39th Annual Conference on Neural Information Processing Systems (NeurIPS-25)_.
 
-* [Position Paper: Uncovering Scaling Laws for Large Language Models via Inverse Problems.](https://arxiv.org/abs/2509.07909){:target="_blank"} \
+* [Position Paper: Uncovering Scaling Laws for Large Language Models via Inverse Problems.](https://aclanthology.org/2025.findings-emnlp.1373/){:target="_blank"} \
 Arun Verma, <ins>Zhaoxuan Wu</ins>, Zijian Zhou, Xiaoqiang Lin, Zhiliang Chen, Rachael Hwee Ling Sim, Rui Qiao, Jingtan Wang, Nhung Bui, Xinyuan Niu, Wenyang Hu, Gregory Kang Ruey Lau, Zi-Yu Khoo, Zitong Zhao, Xinyi Xu, Apivich Hemachandra, See-Kiong Ng, and Bryan Kian Hsiang Low. \
 In _Proceedings of the Conference on Empirical Methods in Natural Language Processing 2025 (EMNLP-25) Findings_.
 
 * [MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents.](https://arxiv.org/abs/2506.15841){:target="_blank"} \
 Zijian Zhou\*, Ao Qu\*, <ins>Zhaoxuan Wu</ins>, Sunghwan Kim, Alok Prakash, Daniela Rus, Jinhua Zhao, Bryan Kian Hsiang Low, and Paul Pu Liang. \
-In _NeurIPS Workshop on Multi-Turn Interactions in Large Language Models (MTI-LLM @ NeurIPS-25)_ - **Oral & Top 1% of papers**.\
+In _NeurIPS Workshop on Multi-Turn Interactions in Large Language Models (MTI-LLM @ NeurIPS-25)_ - **Best Paper**.\
 Also in _COLM Workshop on Reasoning, Attention & Memory 2 (RAM2 @ COLM-25)_ - **Oral**. \
 Also in _arXiv Pre-print_. \
 [[code](https://github.com/MIT-MI/MEM1){:target="_blank"}]
@@ -58,7 +58,7 @@ Rui Qiao, <ins>Zhaoxuan Wu</ins>, Jingtan Wang, Pang Wei Koh, and Bryan Kian Hsi
 In _Proceedings of the 13th International Conference on Learning Representations (ICLR-25)_. \
 [[code](https://github.com/qiaoruiyt/GSR){:target="_blank"}]
 	
-* [Paid with Models: Optimal Contract Design for Collaborative Machine Learning.](https://arxiv.org/abs/2412.11122){:target="_blank"} \
+* [Paid with Models: Optimal Contract Design for Collaborative Machine Learning.](https://ojs.aaai.org/index.php/AAAI/article/view/33552){:target="_blank"} \
 Bingchen Wang, <ins>Zhaoxuan Wu</ins>, Fusheng Liu, and Bryan Kian Hsiang Low. \
 In _Proceedings of the 39th AAAI Conference on Artificial
 Intelligence (AAAI-25)_ - **Oral**. \
@@ -160,13 +160,14 @@ Invited Talks
 
 Academic Activities
 ======
-
+* Area Chair
+  * ACL ARR 2025
 * Conference Reviewer
   * ACL ARR 2025
   * AAAI 2024, 2025
   * AISTATS 2024
   * IJCAI 2024
-  * ICLR 2023, 2024, 2025
+  * ICLR 2023, 2024, 2025, 2026
   * AAMAS 2023, 2024, 2025
   * ICML 2022, 2023, 2024, 2025
   * NeurIPS 2022, 2023, 2024, 2025
